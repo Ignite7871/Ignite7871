@@ -1,6 +1,6 @@
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hey!+I'm+Srikar+Reddy;Full-Stack+Developer;AI+%26+ML+Engineer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hey!+I'm+Srikar+Reddy;Full-Stack+Developer;AI+%26+ML+Engineer;" />
 </h1>
 
 ---
