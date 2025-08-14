@@ -42,20 +42,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-🌟 **[Star Classifier using GPU](https://github.com/)** – Built a CNN using CUDA to classify astronomical images, with GPU vs CPU benchmarking. *(Python, CUDA, PyTorch, OpenCV)*  
-
-🌟 **[Sign Language Translator](https://github.com/)** – Real-time sign language recognition using LSTMs with Keras & TensorFlow + OpenCV integration.  
-
-🌟 **[Travel Planner (GeoGenius)](https://github.com/)** – AI-powered vacation planner with geolocation, place discovery & multilingual translation APIs. *(React.js, Node.js, ML APIs)*  
-
-🌟 **[Complaint Tracker](https://github.com/)** – NLP-based grievance management system with sentiment analysis and prioritization. *(Python, Flask, MongoDB)*  
-
-🌟 **[Prediction of Mental Health Disorder Progression](https://github.com/)** – Ensemble learning for text classification using TF-IDF + Logistic Regression, SVM, Random Forest.  
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ignite7871&show_icons=true&theme=tokyonight" height="165" />
@@ -79,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SrikarReddy&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Ignite7871&color=blue&style=flat-square" />
 </p>
