@@ -1,6 +1,6 @@
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hey!+I'm+Srikar+Reddy;Full-Stack+Developer;AI+%26+ML+Engineer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hey!+I'm+Srikar+Reddy;" />
 </h1>
 
 ---
@@ -8,8 +8,7 @@
 ## 🚀 About Me  
 💻 **B.Tech CSE (AI & ML)** student at SRM Institute of Science and Technology  
 🧠 Passionate about **AI Engineering, Web Development, and Data Analytics**  
-📌 Experienced in **Machine Learning, Deep Learning, and Full-Stack Development**  
-🌟 Areas of interest: Web Development • Data Analytics • AI Engineering  
+📌 Experienced in **Machine Learning, Deep Learning, and Full-Stack Development**   
 📧 **Email:** srikar20035@gmail.com  
 
 ---
@@ -59,15 +58,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrikarReddy&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrikarReddy&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ignite7871&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ignite7871&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ## 📈 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrikarReddy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignite7871&layout=compact&theme=tokyonight" />
 </p>
 
 ---
