@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ignite7871&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Ignite7871&theme=tokyonight" height="165" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ignite7871&theme=tokyonight)
 </p>
 
 ---
