@@ -24,7 +24,7 @@
 
 📧 **Email:** [srikar20035@gmail.com](mailto:srikar20035@gmail.com)
 
-🔗 **LinkedIn:** [linkedin.com/in/srikar-reddy-gunupati](https://linkedin.com/in/srikar-reddy-gunupati)
+🔗 **LinkedIn:** [linkedin.com/in/srikar-reddy-gunupati](www.linkedin.com/in/srikar-reddy-gunupati-483986257)
 
 ---
 
